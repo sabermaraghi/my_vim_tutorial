@@ -5,10 +5,10 @@ ctrl+v  up or down press x                            # This method is to use Vi
                                                            Navigate to the line you wish to comment out and press CTRL + V to enter Visual mode.
                                                            Use the up and down arrow keys to highlight the lines you wish to uncomment. Once selected, press x to remove the comments.
 gg                                                    # end of file
-1g                                                    # begin of file
+1g                                                    # begining of file
 esc   --> 70g                                         # jump to line number 70 (press ESC type 70G)
 
 Esc  -->   Ctrl+End                                   # Jump end of file
 Esc  -->   Ctrl + Home                                # Jump start of file
 shift+4                                               # end of line
-esc  -->                                              # begin of line
+esc  -->                                              # begining of line
